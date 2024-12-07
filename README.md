@@ -14,7 +14,7 @@ This is a desktop application built using **Java** for the frontend and **MySQL*
 - **Frontend**: Java (Swing/JavaFX for Desktop UI)  
 - **Backend**: MySQL for database operations  
 - **Database**: MySQL  
-- **Development Environment**: NeBeans
+- **Development Environment**: NetBeans
 
 ---
 
